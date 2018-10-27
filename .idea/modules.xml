@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/imooc.iml" filepath="$PROJECT_DIR$/.idea/imooc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imoocvideo-dev-common/imoocvideo-dev-common.iml" filepath="$PROJECT_DIR$/imoocvideo-dev-common/imoocvideo-dev-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imoocvideo-dev-mapper/imoocvideo-dev-mapper.iml" filepath="$PROJECT_DIR$/imoocvideo-dev-mapper/imoocvideo-dev-mapper.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imoocvideo-dev-pojo/imoocvideo-dev-pojo.iml" filepath="$PROJECT_DIR$/imoocvideo-dev-pojo/imoocvideo-dev-pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imoocvideo-service/imoocvideo-service.iml" filepath="$PROJECT_DIR$/imoocvideo-service/imoocvideo-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/imoocvideo-web/imoocvideo-web.iml" filepath="$PROJECT_DIR$/imoocvideo-web/imoocvideo-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mybatis-generator-config/mybatis-generator-config.iml" filepath="$PROJECT_DIR$/mybatis-generator-config/mybatis-generator-config.iml" />
+    </modules>
+  </component>
+</project>

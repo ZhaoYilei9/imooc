@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="imoocvideo-dev-common" />
+        <module name="imoocvideo-dev-mapper" />
+        <module name="imoocvideo-dev-pojo" />
+        <module name="imoocvideo-service" />
+        <module name="imoocvideo-web" />
+        <module name="mybatis-generator-config" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="imooc" target="1.8" />
+      <module name="imoocvideo-dev-common" target="1.8" />
+      <module name="imoocvideo-dev-mapper" target="1.8" />
+      <module name="imoocvideo-dev-pojo" target="1.8" />
+      <module name="imoocvideo-service" target="1.8" />
+      <module name="imoocvideo-web" target="1.8" />
+      <module name="mybatis-generator-config" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
