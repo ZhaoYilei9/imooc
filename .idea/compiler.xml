@@ -21,7 +21,7 @@
       <module name="imoocvideo-dev-pojo" target="1.8" />
       <module name="imoocvideo-service" target="1.8" />
       <module name="imoocvideo-web" target="1.8" />
-      <module name="mybatis-generator-config" target="1.8" />
+      <module name="mybatis-generator-config" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>
