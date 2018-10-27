@@ -1,0 +1,7 @@
+com/imooc/ImoocVideoMiniApi.class
+com/imooc/controller/UserController.class
+com/imooc/config/Config.class
+com/imooc/config/Swagger2Confid.class
+com/imooc/controller/PageController.class
+com/imooc/controller/BgmController.class
+com/imooc/controller/CommentsController.class
