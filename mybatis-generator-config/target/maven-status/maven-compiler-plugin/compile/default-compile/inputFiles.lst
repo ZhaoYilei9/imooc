@@ -1,0 +1,16 @@
+/home/zyl/imooc/imooc/mybatis-generator-config/src/main/java/com/imooc/pojo/SearchRecords.java
+/home/zyl/imooc/imooc/mybatis-generator-config/src/main/java/com/imooc/mapper/CommentsMapper.java
+/home/zyl/imooc/imooc/mybatis-generator-config/src/main/java/com/imooc/mapper/UsersLikeVideosMapper.java
+/home/zyl/imooc/imooc/mybatis-generator-config/src/main/java/com/imooc/mapper/UsersFansMapper.java
+/home/zyl/imooc/imooc/mybatis-generator-config/src/main/java/com/imooc/pojo/Comments.java
+/home/zyl/imooc/imooc/mybatis-generator-config/src/main/java/com/imooc/pojo/UsersFans.java
+/home/zyl/imooc/imooc/mybatis-generator-config/src/main/java/com/imooc/mapper/UsersMapper.java
+/home/zyl/imooc/imooc/mybatis-generator-config/src/main/java/com/imooc/pojo/UsersReport.java
+/home/zyl/imooc/imooc/mybatis-generator-config/src/main/java/com/imooc/mapper/VideosMapper.java
+/home/zyl/imooc/imooc/mybatis-generator-config/src/main/java/com/imooc/mapper/UsersReportMapper.java
+/home/zyl/imooc/imooc/mybatis-generator-config/src/main/java/com/imooc/mapper/SearchRecordsMapper.java
+/home/zyl/imooc/imooc/mybatis-generator-config/src/main/java/com/imooc/pojo/Bgm.java
+/home/zyl/imooc/imooc/mybatis-generator-config/src/main/java/com/imooc/pojo/UsersLikeVideos.java
+/home/zyl/imooc/imooc/mybatis-generator-config/src/main/java/com/imooc/pojo/Videos.java
+/home/zyl/imooc/imooc/mybatis-generator-config/src/main/java/com/imooc/mapper/BgmMapper.java
+/home/zyl/imooc/imooc/mybatis-generator-config/src/main/java/com/imooc/pojo/Users.java

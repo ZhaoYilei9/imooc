@@ -2,47 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c6015169-d551-4050-830c-90ecd66f3329" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/imoocvideo-dev-common/src/main/java/com/imooc/utils/FFMpegTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imoocvideo-dev-common/src/main/java/com/imooc/utils/FetchVideoCover.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imoocvideo-dev-common/src/main/java/com/imooc/utils/HttpClientUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imoocvideo-dev-common/src/main/java/com/imooc/utils/IMoocJSONResult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imoocvideo-dev-common/src/main/java/com/imooc/utils/JsonUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imoocvideo-dev-common/src/main/java/com/imooc/utils/MD5Utils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imoocvideo-dev-common/src/main/java/com/imooc/utils/MergeVideoMp3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imoocvideo-dev-common/src/main/java/com/imooc/utils/MyMapper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imoocvideo-dev-common/src/main/java/com/imooc/utils/PagedResult.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imoocvideo-dev-common/src/main/java/com/imooc/utils/RedisOperator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imoocvideo-dev-common/src/main/java/com/imooc/utils/TimeAgoUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imoocvideo-web/src/main/java/com/imooc/config/Config.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imoocvideo-web/src/main/java/com/imooc/config/Swagger2Confid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imoocvideo-web/src/main/java/com/imooc/controller/PageController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imoocvideo-web/src/main/resources/static/vue.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/imoocvideo-web/src/main/resources/templates/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/imoocvideo-dev-pojo/src/main/java/com/imooc/pojo/Users.java" beforeDir="false" afterPath="$PROJECT_DIR$/imoocvideo-dev-pojo/src/main/java/com/imooc/pojo/Users.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/imoocvideo-service/src/main/java/com/imooc/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/imoocvideo-service/src/main/java/com/imooc/service/UserService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/imoocvideo-service/src/main/java/com/imooc/service/impl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/imoocvideo-service/src/main/java/com/imooc/service/impl/UserServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/imoocvideo-service/target/classes/com/imooc/service/UserService.class" beforeDir="false" afterPath="$PROJECT_DIR$/imoocvideo-service/target/classes/com/imooc/service/UserService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/imoocvideo-service/target/classes/com/imooc/service/impl/UserServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/imoocvideo-service/target/classes/com/imooc/service/impl/UserServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/imoocvideo-web/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/imoocvideo-web/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/imoocvideo-web/src/main/java/com/imooc/controller/UserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/imoocvideo-web/src/main/java/com/imooc/controller/UserController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-generator-config/target/classes/com/imooc/mapper/BgmMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis-generator-config/target/classes/com/imooc/mapper/BgmMapper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-generator-config/target/classes/com/imooc/mapper/CommentsMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis-generator-config/target/classes/com/imooc/mapper/CommentsMapper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-generator-config/target/classes/com/imooc/mapper/SearchRecordsMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis-generator-config/target/classes/com/imooc/mapper/SearchRecordsMapper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-generator-config/target/classes/com/imooc/mapper/UsersFansMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis-generator-config/target/classes/com/imooc/mapper/UsersFansMapper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-generator-config/target/classes/com/imooc/mapper/UsersLikeVideosMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis-generator-config/target/classes/com/imooc/mapper/UsersLikeVideosMapper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-generator-config/target/classes/com/imooc/mapper/UsersMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis-generator-config/target/classes/com/imooc/mapper/UsersMapper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-generator-config/target/classes/com/imooc/mapper/UsersReportMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis-generator-config/target/classes/com/imooc/mapper/UsersReportMapper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-generator-config/target/classes/com/imooc/mapper/VideosMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis-generator-config/target/classes/com/imooc/mapper/VideosMapper.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-generator-config/target/classes/com/imooc/pojo/Bgm.class" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis-generator-config/target/classes/com/imooc/pojo/Bgm.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-generator-config/target/classes/com/imooc/pojo/Comments.class" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis-generator-config/target/classes/com/imooc/pojo/Comments.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-generator-config/target/classes/com/imooc/pojo/SearchRecords.class" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis-generator-config/target/classes/com/imooc/pojo/SearchRecords.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-generator-config/target/classes/com/imooc/pojo/Users.class" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis-generator-config/target/classes/com/imooc/pojo/Users.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-generator-config/target/classes/com/imooc/pojo/UsersFans.class" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis-generator-config/target/classes/com/imooc/pojo/UsersFans.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-generator-config/target/classes/com/imooc/pojo/UsersLikeVideos.class" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis-generator-config/target/classes/com/imooc/pojo/UsersLikeVideos.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-generator-config/target/classes/com/imooc/pojo/UsersReport.class" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis-generator-config/target/classes/com/imooc/pojo/UsersReport.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-generator-config/target/classes/com/imooc/pojo/Videos.class" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis-generator-config/target/classes/com/imooc/pojo/Videos.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mybatis-generator-config/target/test-classes/com/imooc/Mbg.class" beforeDir="false" afterPath="$PROJECT_DIR$/mybatis-generator-config/target/test-classes/com/imooc/Mbg.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/imoocvideo-dev-common/target/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -108,7 +68,7 @@
       <file leaf-file-name="Users.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/imoocvideo-dev-pojo/src/main/java/com/imooc/pojo/Users.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1242">
+            <state relative-caret-position="-1323">
               <caret line="37" column="36" selection-start-line="37" selection-start-column="36" selection-end-line="37" selection-end-column="36" />
             </state>
           </provider>
@@ -308,7 +268,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-1" />
     <option name="width" value="1922" />
     <option name="height" value="1024" />
@@ -598,7 +558,7 @@
       <updated>1540625419861</updated>
       <workItem from="1540625421243" duration="12568000" />
       <workItem from="1540640230398" duration="5341000" />
-      <workItem from="1540681810025" duration="9337000" />
+      <workItem from="1540681810025" duration="10044000" />
     </task>
     <servers />
   </component>
@@ -617,10 +577,10 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27246000" />
+    <option name="totallyTimeSpent" value="27953000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="56" y="0" width="1865" height="1081" extended-state="7" />
+    <frame x="56" y="0" width="1865" height="1081" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="6" />
@@ -628,7 +588,7 @@
       <window_info anchor="bottom" id="JRebel Console" order="11" sideWeight="0.2401771" side_tool="true" weight="0.32887402" />
       <window_info anchor="right" id="Maven Projects" order="0" weight="0.32982844" />
       <window_info anchor="bottom" id="Database Changes" order="5" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="JRebel Executor" order="11" sideWeight="0.7598229" visible="true" weight="0.32887402" />
+      <window_info anchor="bottom" id="JRebel Executor" order="11" sideWeight="0.7598229" weight="0.32887402" />
       <window_info id="Capture Tool" order="7" />
       <window_info id="Designer" order="0" />
       <window_info anchor="right" id="Database" order="2" weight="0.32982844" />
@@ -1116,7 +1076,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/imoocvideo-dev-pojo/src/main/java/com/imooc/pojo/Users.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1242">
+        <state relative-caret-position="-1323">
           <caret line="37" column="36" selection-start-line="37" selection-start-column="36" selection-end-line="37" selection-end-column="36" />
         </state>
       </provider>
